@@ -1,7 +1,5 @@
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGluNGFnZnhoM210MDk0NmFoaXU5YTRkYWRxOHh2dDE5N2ptb254ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xd7QqFPv4IVAz8dnog/giphy.gif" width="250"/>
 </div>
 
 #Welcome to my reposity👌
