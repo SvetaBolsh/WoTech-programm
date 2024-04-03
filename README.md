@@ -14,6 +14,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=SvetaBolsh-github-username&style=flat-square&color=red" alt=""/>
+
 #Welcome to my reposity👌
 
 ```diff
