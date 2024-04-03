@@ -1,4 +1,4 @@
-<font color="red">Read me file uses markdown syntax to edit any text, formulas or codes.</font>
+<span style="color:blue">Read me file uses markdown syntax to edit any text, formulas or codes.</span> 
 
 #Welcome to my reposity👌
 
