@@ -54,7 +54,7 @@
 ```diff
 ## My skills
 - Java
-- Python
+- Python 
 - GitHub
 ```
 ## Second level heading
