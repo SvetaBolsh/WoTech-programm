@@ -1,8 +1,8 @@
-<div id="header" align="left">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ2b3NhYjI4cHptemo3N3pkNTk0bXBwbmJobTUzMW1pdmNydDUyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1n98C6J1I3vy31q9Bl/giphy.gif" width="250"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="right>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
