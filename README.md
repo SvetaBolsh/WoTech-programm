@@ -16,6 +16,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=SvetaBolsh-github-username&style=flat-square&color=yellow" alt=""/>
 
+<h1>
+  Text
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJ3aXUzbG9kM2E3MzUzaTN5czdzaDRzamdsdG94ajcxazdzNDdkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/J2awouDsf23R2vo2p5/giphy.gif" width="30px"/>
+</h1>
+
 ---
 
 #Welcome to my reposity👌
