@@ -1,26 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ2b3NhYjI4cHptemo3N3pkNTk0bXBwbmJobTUzMW1pdmNydDUyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1n98C6J1I3vy31q9Bl/giphy.gif" width="250"/>
 </div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-grey?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=SvetaBolsh-github-username&style=flat-square&color=yellow" alt=""/>
-
-<h1>
-  Text
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJ3aXUzbG9kM2E3MzUzaTN5czdzaDRzamdsdG94ajcxazdzNDdkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/J2awouDsf23R2vo2p5/giphy.gif" width="30px"/>
-</h1>
-
 ---
 
 ### :black_small_square: Languages and Tools :
@@ -30,12 +10,7 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-#Welcome to my reposity👌
+#Welcome
 
 ```diff
 ## My skills
