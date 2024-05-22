@@ -1,10 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ2b3NhYjI4cHptemo3N3pkNTk0bXBwbmJobTUzMW1pdmNydDUyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1n98C6J1I3vy31q9Bl/giphy.gif" width="250"/>
-</div>
-
 ### :black_small_square: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
 </div>
 
 ---
